@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "あなたはかいぶつ",
+  "base_artist": "TOOBOE",
+  "createdAt": "2026-02-07T16:22:42.439730Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あなたはかいぶつ",
+      "artist": "TOOBOE",
+      "has_synced": true,
+      "path": "select/01_あなたはかいぶつ_TOOBOE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あなたはかいぶつ - you are my monster",
+      "artist": "TOOBOE",
+      "has_synced": true,
+      "path": "select/02_あなたはかいぶつ_-_you_are_my_monster_TOOBOE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あなたはかいぶつ",
+      "artist": "TOOBOE",
+      "has_synced": false,
+      "path": "select/pl_01_あなたはかいぶつ_TOOBOE.txt"
+    }
+  ]
+}
